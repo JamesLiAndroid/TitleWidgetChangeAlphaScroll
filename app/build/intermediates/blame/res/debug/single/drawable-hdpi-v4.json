@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/xwlsyandroid/workspace/D_ChangeAlphaByScroll_AS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc.jpg",
+        "source": "/home/xwlsyandroid/workspace/D_ChangeAlphaByScroll_AS/app/src/main/res/drawable-hdpi/abc.jpg"
+    },
+    {
+        "merged": "/home/xwlsyandroid/workspace/D_ChangeAlphaByScroll_AS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg.jpg",
+        "source": "/home/xwlsyandroid/workspace/D_ChangeAlphaByScroll_AS/app/src/main/res/drawable-hdpi/bg.jpg"
+    },
+    {
+        "merged": "/home/xwlsyandroid/workspace/D_ChangeAlphaByScroll_AS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/xwlsyandroid/workspace/D_ChangeAlphaByScroll_AS/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
